@@ -3,7 +3,7 @@ import Button from './components/button';
 import Card from './components/card';
 import Navbar from './components/navbar';
 import About from './components/about'
-import Kontak from './components/kontak';
+import Contact from './components/contact';
 import Footer from './components/footer';
 import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 
@@ -15,7 +15,7 @@ const App = () => {
           <div className="content">
             <Button/>
             <Card/>
-            <Kontak/>
+            <Contact/>
             <About/>
           </div>
         <Footer/>
