@@ -9,7 +9,7 @@ module.exports = {
         'grey' : '#D8D7D7'
     },
     borderRadius: {
-      'lg': '40px',
+      'lg': '90px',
     },
   },
 },
